@@ -7,4 +7,6 @@ This project primarily utilized the WordPress platform. One of the big changes o
 
 [Peter Greer Website](https://www.peterkgreer.com)
 
+[Peter Greer Website](hhttps://github.com/TimothyWong17/Peter-Greer-Website-Redesign/blob/master/peterk-greer.png)
+
 
